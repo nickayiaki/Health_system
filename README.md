@@ -1,7 +1,6 @@
 # Health_system
-# Health  System
 
-A simple Health Information Management System built with **Python** and **Flask**.
+A simple Health System built with Python and Flask.
 
 This system allows doctors (users) to:
 - Create health programs (e.g., TB, Malaria, HIV)
@@ -11,7 +10,7 @@ This system allows doctors (users) to:
 - Expose client profiles through an API for integration with other systems
 
 ---
-## 🛠️ Features
+Features
 
 - Add new health programs
 - Register and manage client information
@@ -19,9 +18,9 @@ This system allows doctors (users) to:
 - Search for client
 ---
 
-## 🚀 Getting Started
+ Getting Started
 
-### Requirements
+Requirements
 - Python 3.x installed
 - Flask installed
 
@@ -29,7 +28,7 @@ This system allows doctors (users) to:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/health-info-system.git
+    git clone https://github.com/nickayiaki/Health_system/
     ```
 
 2. Navigate into the project directory:
@@ -44,7 +43,7 @@ This system allows doctors (users) to:
 
 4. Run the application:
     ```bash
-    python app.py
+    python Health_system.py
     ```
 
 5. Open your browser and visit:
@@ -54,7 +53,7 @@ This system allows doctors (users) to:
 
 ---
 
-## 🌐 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint | Description |
 |:------|:---------|:------------|
